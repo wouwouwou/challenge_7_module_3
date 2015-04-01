@@ -24,7 +24,7 @@ public class WlanScanner {
 	public static String name = "Localized WoeterRoeter 1606824";
 	
 	//Controls if the position is send to the server for viewing on the website.
-	public static boolean sendToWebsite = false;
+	public static boolean sendToWebsite = true;
 	
 	//The LocationFinder that is to be used. Replace this with your own implementation!
 //	public LocationFinder locationHandler = new SimpleLocationFinder();
